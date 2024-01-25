@@ -33,4 +33,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: MaelMainsard/ynov_cicd_test:latest
+          tags: maelmainsard/ynov_cicd_test:latest
